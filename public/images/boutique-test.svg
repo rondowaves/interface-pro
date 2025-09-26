@@ -1,0 +1,15 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="450" fill="url(#gradient)"/>
+<defs>
+<linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+</linearGradient>
+</defs>
+<rect x="50" y="50" width="700" height="350" rx="20" fill="white" fill-opacity="0.9"/>
+<text x="400" y="150" text-anchor="middle" fill="#1F2937" font-family="Arial, sans-serif" font-size="48" font-weight="bold">Interface Pro</text>
+<text x="400" y="200" text-anchor="middle" fill="#4B5563" font-family="Arial, sans-serif" font-size="24">B3-3, Espace commercial le MFOUNDI</text>
+<text x="400" y="240" text-anchor="middle" fill="#6B7280" font-family="Arial, sans-serif" font-size="18">Yaoundé - Entre marché central et face Hilton</text>
+<text x="400" y="300" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="20">📞 698 597 466 | 📱 673 010 098</text>
+<text x="400" y="340" text-anchor="middle" fill="#374151" font-family="Arial, sans-serif" font-size="20">📧 interfacepro40@gmail.com</text>
+</svg>

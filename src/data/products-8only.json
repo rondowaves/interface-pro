@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "id": "ordinateurs",
+      "name": "Ordinateurs & Accessoires",
+      "description": "PC portables, ordinateurs de bureau, écrans, claviers, souris"
+    },
+    {
+      "id": "imprimantes",
+      "name": "Imprimantes & Scanners",
+      "description": "Imprimantes laser/jet d'encre, multifonctions, scanners"
+    },
+    {
+      "id": "consommables",
+      "name": "Consommables",
+      "description": "Cartouches d'encre, toners, papiers spéciaux"
+    },
+    {
+      "id": "reseaux",
+      "name": "Réseaux & Périphériques",
+      "description": "Routeurs, disques durs externes, clés USB, câbles, casques, webcams"
+    },
+    {
+      "id": "ecrans",
+      "name": "Écrans & Moniteurs",
+      "description": "Moniteurs HP 20'', 22'', 24'', 27'' - Full HD et résolutions diverses"
+    },
+    {
+      "id": "scanners",
+      "name": "Scanners",
+      "description": "Scanners à plat, scanners avec chargeur automatique"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "HP LaserJet Pro 4003DN",
+      "category": "imprimantes",
+      "price": "250,000 FCFA",
+      "priceRange": "À partir de 250,000 FCFA",
+      "image": "/images/hp-laserjet-pro-4003dn.png",
+      "description": "Imprimante laser monochrome professionnelle avec impression recto-verso automatique",
+      "features": [
+        "Impression laser monochrome",
+        "Vitesse: jusqu'à 33 ppm",
+        "Résolution: 1200 x 1200 dpi",
+        "Impression recto-verso automatique",
+        "Connectivité: USB, Ethernet",
+        "Capacité papier: 250 feuilles"
+      ],
+      "specifications": {
+        "type": "Laser monochrome",
+        "vitesse": "33 ppm",
+        "resolution": "1200 x 1200 dpi",
+        "connectivite": "USB 2.0, Ethernet",
+        "capacite_papier": "250 feuilles"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "HP LaserJet Pro 4103DW",
+      "category": "imprimantes",
+      "price": "320,000 FCFA",
+      "priceRange": "À partir de 320,000 FCFA",
+      "image": "/images/hp-laserjet-pro-4103dw.png",
+      "description": "Imprimante laser monochrome avec Wi-Fi et impression mobile",
+      "features": [
+        "Impression laser monochrome",
+        "Vitesse: jusqu'à 33 ppm",
+        "Wi-Fi intégré",
+        "Impression mobile",
+        "Écran tactile",
+        "Impression recto-verso automatique"
+      ],
+      "specifications": {
+        "type": "Laser monochrome",
+        "vitesse": "33 ppm",
+        "resolution": "1200 x 1200 dpi",
+        "connectivite": "USB, Wi-Fi, Ethernet",
+        "capacite_papier": "250 feuilles"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Canon PIXMA MG2546S",
+      "category": "imprimantes",
+      "price": "85,000 FCFA",
+      "priceRange": "À partir de 85,000 FCFA",
+      "image": "/images/canon-pixma-mg2546s.jpg",
+      "description": "Imprimante multifonction jet d'encre couleur - Copie, Impression, Scan",
+      "features": [
+        "Impression jet d'encre couleur",
+        "Multifonction: Copie, Impression, Scan",
+        "Résolution: 4800 x 1200 dpi",
+        "Connectivité USB",
+        "Compact et économique",
+        "Compatible cartouches PG-545/CL-546"
+      ],
+      "specifications": {
+        "type": "Jet d'encre couleur",
+        "fonctions": "Copie, Impression, Scan",
+        "resolution": "4800 x 1200 dpi",
+        "connectivite": "USB 2.0",
+        "cartouches": "PG-545 (noir), CL-546 (couleur)"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Lenovo IdeaPad 3 Slim",
+      "category": "ordinateurs",
+      "price": "450,000 FCFA",
+      "priceRange": "À partir de 450,000 FCFA",
+      "image": "/images/lenovo-ideapad3-slim.png",
+      "description": "Ordinateur portable Intel Core i5-13420H avec 8GB RAM et 256GB SSD",
+      "features": [
+        "Processeur Intel Core i5-13420H (2,1 GHz)",
+        "8GB RAM DDR4",
+        "256GB SSD",
+        "Écran 15.6\" Full HD",
+        "Windows 11",
+        "Design slim et léger"
+      ],
+      "specifications": {
+        "processeur": "Intel Core i5-13420H (2,1 GHz)",
+        "ram": "8GB DDR4",
+        "stockage": "256GB SSD",
+        "ecran": "15.6\" Full HD (1920x1080)",
+        "os": "Windows 11",
+        "poids": "1.65 kg"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "HP Desktop Pro 290 G9 Tower",
+      "category": "ordinateurs",
+      "price": "350,000 FCFA",
+      "priceRange": "À partir de 350,000 FCFA",
+      "image": "/images/hp-desktop-i3-290g9.png",
+      "description": "Unité centrale HP Pro 290 G9 Tower Intel Core i5-12400 avec RAM",
+      "features": [
+        "Processeur Intel Core i5-12400",
+        "8GB RAM DDR4",
+        "256GB SSD",
+        "Windows 11 Pro",
+        "Ports USB multiples",
+        "Connectivité Ethernet"
+      ],
+      "specifications": {
+        "processeur": "Intel Core i5-12400",
+        "ram": "8GB DDR4",
+        "stockage": "256GB SSD",
+        "os": "Windows 11 Pro",
+        "format": "Tour (Tower)",
+        "ports": "USB 3.0, USB 2.0, HDMI, VGA"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Écran HP 24\"",
+      "category": "ordinateurs",
+      "price": "120,000 FCFA",
+      "priceRange": "À partir de 120,000 FCFA",
+      "image": "/images/ecran-hp-24.png",
+      "description": "Moniteur HP 24 pouces Full HD avec connectivité HDMI et VGA",
+      "features": [
+        "Écran 24\" Full HD",
+        "Résolution 1920x1080",
+        "Connectivité HDMI, VGA",
+        "Design slim",
+        "Réglage inclinaison",
+        "Économe en énergie"
+      ],
+      "specifications": {
+        "taille": "24 pouces",
+        "resolution": "1920x1080 (Full HD)",
+        "connectivite": "HDMI, VGA",
+        "luminosite": "250 cd/m²",
+        "temps_reponse": "5ms",
+        "angle_vision": "178°"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Cartouche HP 653 Couleur",
+      "category": "consommables",
+      "price": "15,000 FCFA",
+      "priceRange": "À partir de 15,000 FCFA",
+      "image": "/images/cartouche-hp-653.png",
+      "description": "Cartouche d'encre HP 653 couleur authentique - 200 pages",
+      "features": [
+        "Cartouche HP authentique",
+        "Encre couleur (Cyan, Magenta, Jaune)",
+        "Rendement: 200 pages",
+        "Compatible HP Ink Advantage",
+        "Qualité d'impression optimale",
+        "Installation facile"
+      ],
+      "specifications": {
+        "marque": "HP",
+        "type": "Couleur (CMY)",
+        "rendement": "200 pages",
+        "compatibilite": "HP Ink Advantage 6075, 6475",
+        "reference": "3YM74AE"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Onduleur Premax UPS 1200",
+      "category": "reseaux",
+      "price": "45,000 FCFA",
+      "priceRange": "À partir de 45,000 FCFA",
+      "image": "/images/onduleur-premax-1200.jpg",
+      "description": "Onduleur Premax UPS 1200VA pour protection électrique",
+      "features": [
+        "Puissance: 1200VA/720W",
+        "Protection contre les surtensions",
+        "Autonomie: 10-15 minutes",
+        "Écran LCD",
+        "Alarme sonore",
+        "Prises multiples"
+      ],
+      "specifications": {
+        "puissance": "1200VA/720W",
+        "autonomie": "10-15 minutes",
+        "entree": "220V AC",
+        "sortie": "220V AC",
+        "prises": "4 prises protégées",
+        "ecran": "LCD"
+      },
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}

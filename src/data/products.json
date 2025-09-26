@@ -1,0 +1,704 @@
+{
+  "categories": [
+    {
+      "id": "ordinateurs",
+      "name": "Ordinateurs & Accessoires",
+      "description": "PC portables, ordinateurs de bureau, écrans, claviers, souris"
+    },
+    {
+      "id": "imprimantes",
+      "name": "Imprimantes & Scanners",
+      "description": "Imprimantes laser/jet d'encre, multifonctions, scanners"
+    },
+    {
+      "id": "consommables",
+      "name": "Consommables",
+      "description": "Cartouches d'encre, toners, papiers spéciaux"
+    },
+    {
+      "id": "reseaux",
+      "name": "Réseaux & Périphériques",
+      "description": "Routeurs, disques durs externes, clés USB, câbles, casques, webcams"
+    },
+    {
+      "id": "ecrans",
+      "name": "Écrans & Moniteurs",
+      "description": "Moniteurs HP 20'', 22'', 24'', 27'' - Full HD et résolutions diverses"
+    },
+    {
+      "id": "scanners",
+      "name": "Scanners",
+      "description": "Scanners à plat, scanners avec chargeur automatique"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "HP LaserJet Pro 4003DN",
+      "category": "imprimantes",
+      "price": "250,000 FCFA",
+      "priceRange": "À partir de 250,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE HP LASER JET PRO 4003DN.png",
+      "description": "Imprimante laser monochrome professionnelle avec impression recto-verso automatique",
+      "features": [
+        "Impression laser monochrome",
+        "Vitesse: jusqu'à 33 ppm",
+        "Résolution: 1200 x 1200 dpi",
+        "Impression recto-verso automatique",
+        "Connectivité: USB, Ethernet",
+        "Capacité papier: 250 feuilles"
+      ],
+      "specifications": {
+        "type": "Laser monochrome",
+        "vitesse": "33 ppm",
+        "resolution": "1200 x 1200 dpi",
+        "connectivite": "USB 2.0, Ethernet",
+        "capacite_papier": "250 feuilles"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "HP LaserJet Pro 4103DW",
+      "category": "imprimantes",
+      "price": "320,000 FCFA",
+      "priceRange": "À partir de 320,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE HP LASER JET PRO 4103 DW.png",
+      "description": "Imprimante laser monochrome avec Wi-Fi et impression mobile",
+      "features": [
+        "Impression laser monochrome",
+        "Vitesse: jusqu'à 33 ppm",
+        "Wi-Fi intégré",
+        "Impression mobile",
+        "Écran tactile",
+        "Impression recto-verso automatique"
+      ],
+      "specifications": {
+        "type": "Laser monochrome",
+        "vitesse": "33 ppm",
+        "resolution": "1200 x 1200 dpi",
+        "connectivite": "USB, Wi-Fi, Ethernet",
+        "capacite_papier": "250 feuilles"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Canon PIXMA MG2546S",
+      "category": "imprimantes",
+      "price": "85,000 FCFA",
+      "priceRange": "À partir de 85,000 FCFA",
+      "image": "/images/Produit/Canon PIXMA MG2546S – Imprimante Multifonction Jet d'Encre Couleur.jpg",
+      "description": "Imprimante multifonction jet d'encre couleur - Copie, Impression, Scan",
+      "features": [
+        "Impression jet d'encre couleur",
+        "Multifonction: Copie, Impression, Scan",
+        "Résolution: 4800 x 1200 dpi",
+        "Connectivité USB",
+        "Compact et économique",
+        "Compatible cartouches PG-545/CL-546"
+      ],
+      "specifications": {
+        "type": "Jet d'encre couleur",
+        "fonctions": "Copie, Impression, Scan",
+        "resolution": "4800 x 1200 dpi",
+        "connectivite": "USB 2.0",
+        "cartouches": "PG-545 (noir), CL-546 (couleur)"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "HP DeskJet 2720e",
+      "category": "imprimantes",
+      "price": "95,000 FCFA",
+      "priceRange": "À partir de 95,000 FCFA",
+      "image": "/images/Produit/HP LASER 135W IMPRIMANTE MULTIFONCTION LASER MONOCHROME.png",
+      "description": "Imprimante multifonction Wi-Fi avec HP Smart",
+      "features": [
+        "Impression, copie, scan",
+        "Wi-Fi intégré",
+        "HP Smart compatible",
+        "Impression mobile",
+        "Cartouches HP 305",
+        "Compact et silencieux"
+      ],
+      "specifications": {
+        "type": "Jet d'encre couleur",
+        "fonctions": "Impression, copie, scan",
+        "connectivite": "Wi-Fi, USB",
+        "cartouches": "HP 305 (noir/couleur)",
+        "vitesse": "7.5 ppm (noir), 5.5 ppm (couleur)"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Lenovo IdeaPad 3 Slim",
+      "category": "ordinateurs",
+      "price": "450,000 FCFA",
+      "priceRange": "À partir de 450,000 FCFA",
+      "image": "/images/Produit/LAPTOP LENOVO IDEAPAD3 SLIM  intel core i5-13420h (2,1 GHz).png",
+      "description": "Ordinateur portable Intel Core i5-13420H avec 8GB RAM et 256GB SSD",
+      "features": [
+        "Processeur Intel Core i5-13420H (2,1 GHz)",
+        "8GB RAM DDR4",
+        "256GB SSD",
+        "Écran 15.6\" Full HD",
+        "Windows 11",
+        "Design slim et léger"
+      ],
+      "specifications": {
+        "processeur": "Intel Core i5-13420H (2,1 GHz)",
+        "ram": "8GB DDR4",
+        "stockage": "256GB SSD",
+        "ecran": "15.6\" Full HD (1920x1080)",
+        "os": "Windows 11",
+        "poids": "1.65 kg"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "HP Desktop Pro 290 G9 Tower",
+      "category": "ordinateurs",
+      "price": "350,000 FCFA",
+      "priceRange": "À partir de 350,000 FCFA",
+      "image": "/images/Produit/DESKTOP COMPLET HP CORE I3 290 G9.png",
+      "description": "Unité centrale HP Pro 290 G9 Tower Intel Core i5-12400 avec RAM",
+      "features": [
+        "Processeur Intel Core i5-12400",
+        "8GB RAM DDR4",
+        "256GB SSD",
+        "Windows 11 Pro",
+        "Ports USB multiples",
+        "Connectivité Ethernet"
+      ],
+      "specifications": {
+        "processeur": "Intel Core i5-12400",
+        "ram": "8GB DDR4",
+        "stockage": "256GB SSD",
+        "os": "Windows 11 Pro",
+        "format": "Tour (Tower)",
+        "ports": "USB 3.0, USB 2.0, HDMI, VGA"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Dell OptiPlex 3090 SFF",
+      "category": "ordinateurs",
+      "price": "380,000 FCFA",
+      "priceRange": "À partir de 380,000 FCFA",
+      "image": "/images/Produit/Unité centrale HP Pro 290 G9 Tower i5-12400 Ram.png",
+      "description": "PC de bureau Dell OptiPlex format compact avec Intel Core i5",
+      "features": [
+        "Processeur Intel Core i5-11500",
+        "8GB RAM DDR4",
+        "256GB SSD",
+        "Windows 11 Pro",
+        "Format compact SFF",
+        "Ports USB-C et USB 3.0"
+      ],
+      "specifications": {
+        "processeur": "Intel Core i5-11500",
+        "ram": "8GB DDR4",
+        "stockage": "256GB SSD",
+        "os": "Windows 11 Pro",
+        "format": "Small Form Factor (SFF)",
+        "ports": "USB-C, USB 3.0, HDMI, DisplayPort"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "ASUS VivoBook 15",
+      "category": "ordinateurs",
+      "price": "420,000 FCFA",
+      "priceRange": "À partir de 420,000 FCFA",
+      "image": "/images/Produit/Ordinateur portable Lenovo intel celeron dual core.png",
+      "description": "Ordinateur portable ASUS VivoBook 15 avec AMD Ryzen 5",
+      "features": [
+        "Processeur AMD Ryzen 5 5500U",
+        "8GB RAM DDR4",
+        "512GB SSD",
+        "Écran 15.6\" Full HD",
+        "Windows 11",
+        "Clavier rétroéclairé"
+      ],
+      "specifications": {
+        "processeur": "AMD Ryzen 5 5500U",
+        "ram": "8GB DDR4",
+        "stockage": "512GB SSD",
+        "ecran": "15.6\" Full HD IPS",
+        "os": "Windows 11",
+        "poids": "1.8 kg"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Écran HP 24\"",
+      "category": "ecrans",
+      "price": "120,000 FCFA",
+      "priceRange": "À partir de 120,000 FCFA",
+      "image": "/images/Produit/ÉCRAN  HP 24''.png",
+      "description": "Moniteur HP 24 pouces Full HD avec connectivité HDMI et VGA",
+      "features": [
+        "Écran 24\" Full HD",
+        "Résolution 1920x1080",
+        "Connectivité HDMI, VGA",
+        "Design slim",
+        "Réglage inclinaison",
+        "Économe en énergie"
+      ],
+      "specifications": {
+        "taille": "24 pouces",
+        "resolution": "1920x1080 (Full HD)",
+        "connectivite": "HDMI, VGA",
+        "luminosite": "250 cd/m²",
+        "temps_reponse": "5ms",
+        "angle_vision": "178°"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Écran HP 22\"",
+      "category": "ecrans",
+      "price": "95,000 FCFA",
+      "priceRange": "À partir de 95,000 FCFA",
+      "image": "/images/Produit/ÉCRAN  HP 20''.png",
+      "description": "Moniteur HP 22 pouces Full HD économique",
+      "features": [
+        "Écran 22\" Full HD",
+        "Résolution 1920x1080",
+        "Connectivité HDMI, VGA",
+        "Design compact",
+        "Économique",
+        "Idéal bureau"
+      ],
+      "specifications": {
+        "taille": "22 pouces",
+        "resolution": "1920x1080 (Full HD)",
+        "connectivite": "HDMI, VGA",
+        "luminosite": "200 cd/m²",
+        "temps_reponse": "5ms",
+        "consommation": "18W"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Écran HP 27\"",
+      "category": "ecrans",
+      "price": "165,000 FCFA",
+      "priceRange": "À partir de 165,000 FCFA",
+      "image": "/images/Produit/ÉCRAN  HP 24''.png",
+      "description": "Grand moniteur HP 27 pouces Full HD pour productivité",
+      "features": [
+        "Grand écran 27\" Full HD",
+        "Résolution 1920x1080",
+        "Connectivité HDMI, DisplayPort",
+        "Réglage hauteur",
+        "Idéal multitâche",
+        "Design professionnel"
+      ],
+      "specifications": {
+        "taille": "27 pouces",
+        "resolution": "1920x1080 (Full HD)",
+        "connectivite": "HDMI, DisplayPort, VGA",
+        "luminosite": "300 cd/m²",
+        "temps_reponse": "5ms",
+        "reglages": "Hauteur, inclinaison, pivot"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 12,
+      "name": "Cartouche HP 653 Couleur",
+      "category": "consommables",
+      "price": "15,000 FCFA",
+      "priceRange": "À partir de 15,000 FCFA",
+      "image": "/images/Produit/Cartouche HP 653 (3YM74AE) couleur de 200 pages.png",
+      "description": "Cartouche d'encre HP 653 couleur authentique - 200 pages",
+      "features": [
+        "Cartouche HP authentique",
+        "Encre couleur (Cyan, Magenta, Jaune)",
+        "Rendement: 200 pages",
+        "Compatible HP Ink Advantage",
+        "Qualité d'impression optimale",
+        "Installation facile"
+      ],
+      "specifications": {
+        "marque": "HP",
+        "type": "Couleur (CMY)",
+        "rendement": "200 pages",
+        "compatibilite": "HP Ink Advantage 6075, 6475",
+        "reference": "3YM74AE"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 13,
+      "name": "Cartouche HP 653 Noir",
+      "category": "consommables",
+      "price": "12,000 FCFA",
+      "priceRange": "À partir de 12,000 FCFA",
+      "image": "/images/Produit/Cartouche d'encre 653 Ink Advantage trois couleurs HP authentique.png",
+      "description": "Cartouche d'encre HP 653 noir authentique - 360 pages",
+      "features": [
+        "Cartouche HP authentique",
+        "Encre noir pigmenté",
+        "Rendement: 360 pages",
+        "Compatible HP Ink Advantage",
+        "Texte net et précis",
+        "Installation facile"
+      ],
+      "specifications": {
+        "marque": "HP",
+        "type": "Noir pigmenté",
+        "rendement": "360 pages",
+        "compatibilite": "HP Ink Advantage 6075, 6475",
+        "reference": "3YM75AE"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 14,
+      "name": "Toner HP 106A",
+      "category": "consommables",
+      "price": "45,000 FCFA",
+      "priceRange": "À partir de 45,000 FCFA",
+      "image": "/images/Produit/HP 963 Cartouche d'encre noire authentique .png",
+      "description": "Toner HP 106A noir pour LaserJet Pro - 1000 pages",
+      "features": [
+        "Toner HP authentique",
+        "Noir haute qualité",
+        "Rendement: 1000 pages",
+        "Compatible LaserJet Pro",
+        "Installation simple",
+        "Qualité professionnelle"
+      ],
+      "specifications": {
+        "marque": "HP",
+        "type": "Toner noir",
+        "rendement": "1000 pages",
+        "compatibilite": "HP LaserJet Pro 4003, 4103",
+        "reference": "W1106A"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 15,
+      "name": "Papier A4 80g (500 feuilles)",
+      "category": "consommables",
+      "price": "3,500 FCFA",
+      "priceRange": "À partir de 3,500 FCFA",
+      "image": "/images/Produit/HP LASER 107A IMPRIMANTE LASER MONOCHROME MONOFONCTION.png",
+      "description": "Ramette papier A4 80g/m² blanc - 500 feuilles",
+      "features": [
+        "Format A4 standard",
+        "Grammage 80g/m²",
+        "500 feuilles par ramette",
+        "Blanc extra",
+        "Compatible toutes imprimantes",
+        "Qualité bureau"
+      ],
+      "specifications": {
+        "format": "A4 (210 x 297 mm)",
+        "grammage": "80g/m²",
+        "quantite": "500 feuilles",
+        "couleur": "Blanc",
+        "blancheur": "CIE 160",
+        "opacite": "94%"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 16,
+      "name": "Onduleur Premax UPS 1200",
+      "category": "reseaux",
+      "price": "45,000 FCFA",
+      "priceRange": "À partir de 45,000 FCFA",
+      "image": "/images/Produit/Onduleur Premax UPS PM-UPS 1200.jpg",
+      "description": "Onduleur Premax UPS 1200VA pour protection électrique",
+      "features": [
+        "Puissance: 1200VA/720W",
+        "Protection contre les surtensions",
+        "Autonomie: 10-15 minutes",
+        "Écran LCD",
+        "Alarme sonore",
+        "Prises multiples"
+      ],
+      "specifications": {
+        "puissance": "1200VA/720W",
+        "autonomie": "10-15 minutes",
+        "entree": "220V AC",
+        "sortie": "220V AC",
+        "prises": "4 prises protégées",
+        "ecran": "LCD"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 17,
+      "name": "Disque Dur Externe 1TB",
+      "category": "reseaux",
+      "price": "35,000 FCFA",
+      "priceRange": "À partir de 35,000 FCFA",
+      "image": "/images/Produit/HP LASER 135W IMPRIMANTE MULTIFONCTION LASER MONOCHROME.png",
+      "description": "Disque dur externe portable 1TB USB 3.0",
+      "features": [
+        "Capacité 1TB (1000GB)",
+        "Interface USB 3.0",
+        "Portable et compact",
+        "Plug & Play",
+        "Compatible PC/Mac",
+        "Vitesse élevée"
+      ],
+      "specifications": {
+        "capacite": "1TB (1000GB)",
+        "interface": "USB 3.0",
+        "vitesse": "5400 RPM",
+        "compatibilite": "Windows, Mac, Linux",
+        "alimentation": "USB (bus powered)",
+        "dimensions": "117 x 81 x 15 mm"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 18,
+      "name": "Clé USB 32GB",
+      "category": "reseaux",
+      "price": "8,000 FCFA",
+      "priceRange": "À partir de 8,000 FCFA",
+      "image": "/images/Produit/HP LASER 135W IMPRIMANTE MULTIFONCTION LASER MONOCHROME.png",
+      "description": "Clé USB 32GB USB 3.0 haute vitesse",
+      "features": [
+        "Capacité 32GB",
+        "Interface USB 3.0",
+        "Haute vitesse",
+        "Design compact",
+        "Capuchon de protection",
+        "Compatible universel"
+      ],
+      "specifications": {
+        "capacite": "32GB",
+        "interface": "USB 3.0",
+        "vitesse_lecture": "Jusqu'à 100 MB/s",
+        "vitesse_ecriture": "Jusqu'à 30 MB/s",
+        "compatibilite": "Windows, Mac, Linux",
+        "dimensions": "55 x 21 x 10 mm"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 19,
+      "name": "Souris HP Optique",
+      "category": "reseaux",
+      "price": "12,000 FCFA",
+      "priceRange": "À partir de 12,000 FCFA",
+      "image": "/images/Produit/HP LASER 107A IMPRIMANTE LASER MONOCHROME MONOFONCTION.png",
+      "description": "Souris optique HP filaire ergonomique",
+      "features": [
+        "Capteur optique précis",
+        "Design ergonomique",
+        "Connexion USB filaire",
+        "3 boutons + molette",
+        "Compatible PC",
+        "Plug & Play"
+      ],
+      "specifications": {
+        "type": "Optique",
+        "connexion": "USB filaire",
+        "boutons": "3 boutons + molette",
+        "resolution": "1000 DPI",
+        "compatibilite": "Windows, Mac, Linux",
+        "longueur_cable": "1.5m"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 20,
+      "name": "Clavier HP Standard",
+      "category": "reseaux",
+      "price": "18,000 FCFA",
+      "priceRange": "À partir de 18,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE HP LASER JET MFP M141A.png",
+      "description": "Clavier HP standard AZERTY filaire",
+      "features": [
+        "Layout AZERTY français",
+        "Connexion USB filaire",
+        "Touches silencieuses",
+        "Design compact",
+        "Résistant aux éclaboussures",
+        "Plug & Play"
+      ],
+      "specifications": {
+        "layout": "AZERTY français",
+        "connexion": "USB filaire",
+        "type": "Membrane",
+        "touches": "104 touches",
+        "compatibilite": "Windows, Mac, Linux",
+        "longueur_cable": "1.8m"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 21,
+      "name": "Casque Audio HP",
+      "category": "reseaux",
+      "price": "25,000 FCFA",
+      "priceRange": "À partir de 25,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE HP LASERJET MULTIFONCTION 137FNW.png",
+      "description": "Casque audio HP stéréo avec microphone",
+      "features": [
+        "Son stéréo haute qualité",
+        "Microphone intégré",
+        "Arceau ajustable",
+        "Coussinets confortables",
+        "Connexion jack 3.5mm",
+        "Idéal télétravail"
+      ],
+      "specifications": {
+        "type": "Supra-auriculaire",
+        "connexion": "Jack 3.5mm",
+        "microphone": "Omnidirectionnel",
+        "reponse_frequence": "20Hz - 20kHz",
+        "impedance": "32 ohms",
+        "longueur_cable": "2m"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 22,
+      "name": "Webcam HD 1080p",
+      "category": "reseaux",
+      "price": "35,000 FCFA",
+      "priceRange": "À partir de 35,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE MULTIFONCTION HP COLOR LASER JET PRO 4303 DW.png",
+      "description": "Webcam HD 1080p avec microphone pour visioconférence",
+      "features": [
+        "Résolution Full HD 1080p",
+        "Microphone intégré",
+        "Autofocus automatique",
+        "Correction lumière faible",
+        "Compatible Zoom, Teams",
+        "Clip universel"
+      ],
+      "specifications": {
+        "resolution": "1920x1080 (Full HD)",
+        "framerate": "30 fps",
+        "microphone": "Stéréo intégré",
+        "connexion": "USB 2.0",
+        "compatibilite": "Windows, Mac, Linux",
+        "angle_vision": "78°"
+      },
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 23,
+      "name": "Scanner Canon LiDE 300",
+      "category": "scanners",
+      "price": "85,000 FCFA",
+      "priceRange": "À partir de 85,000 FCFA",
+      "image": "/images/Produit/Canon CanoScan LiDE 300 Scanner à plat 2400 x 2400 DPI.png",
+      "description": "Scanner à plat Canon LiDE 300 haute résolution",
+      "features": [
+        "Résolution 2400 x 4800 dpi",
+        "Scan couleur et N&B",
+        "Format A4/Lettre",
+        "Connexion USB",
+        "Logiciel inclus",
+        "Design ultra-plat"
+      ],
+      "specifications": {
+        "type": "Scanner à plat",
+        "resolution": "2400 x 4800 dpi",
+        "format_max": "A4 (216 x 297 mm)",
+        "vitesse": "10 secondes (couleur A4)",
+        "connexion": "USB 2.0",
+        "compatibilite": "Windows, Mac"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 24,
+      "name": "Routeur Wi-Fi TP-Link",
+      "category": "reseaux",
+      "price": "55,000 FCFA",
+      "priceRange": "À partir de 55,000 FCFA",
+      "image": "/images/Produit/IMPRIMANTE Canon i-SENSYS MF655Cdw.png",
+      "description": "Routeur Wi-Fi TP-Link AC1200 dual band",
+      "features": [
+        "Wi-Fi AC1200 (300+867 Mbps)",
+        "Dual Band 2.4GHz + 5GHz",
+        "4 ports Ethernet",
+        "2 antennes externes",
+        "Contrôle parental",
+        "Configuration facile"
+      ],
+      "specifications": {
+        "standard": "802.11ac",
+        "vitesse": "AC1200 (300+867 Mbps)",
+        "frequences": "2.4GHz + 5GHz",
+        "ports": "4x Ethernet 10/100 Mbps",
+        "antennes": "2x externes fixes",
+        "securite": "WPA/WPA2/WPA3"
+      },
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 25,
+      "name": "Câble HDMI 2m",
+      "category": "reseaux",
+      "price": "5,000 FCFA",
+      "priceRange": "À partir de 5,000 FCFA",
+      "image": "/images/Produit/Photocopieur Canon iR 2425I – Monochrome Réseau .jpg",
+      "description": "Câble HDMI haute vitesse 2 mètres",
+      "features": [
+        "Longueur 2 mètres",
+        "HDMI haute vitesse",
+        "Support 4K@60Hz",
+        "Connecteurs plaqués or",
+        "Compatible tous appareils",
+        "Blindage anti-interférences"
+      ],
+      "specifications": {
+        "longueur": "2 mètres",
+        "version": "HDMI 2.0",
+        "resolution_max": "4K@60Hz",
+        "connecteurs": "HDMI mâle/mâle",
+        "blindage": "Triple blindage",
+        "compatibilite": "TV, PC, consoles, etc."
+      },
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}
