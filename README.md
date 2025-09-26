@@ -33,6 +33,29 @@ npm run dev
 
 Ouvrir [http://localhost:3000](http://localhost:3000) dans le navigateur.
 
+## 🚀 Déploiement IONOS
+
+### Build pour production :
+```bash
+npm run build:static
+```
+
+### Script automatisé :
+```bash
+# Windows
+.\build-ionos.bat
+
+# PowerShell
+.\build-ionos.ps1
+```
+
+### Upload sur IONOS :
+1. Uploadez le contenu du dossier `out/` vers `/htdocs/`
+2. Configurez votre domaine
+3. Activez SSL/HTTPS
+
+📋 **Guide complet :** [DEPLOIEMENT-IONOS.md](./DEPLOIEMENT-IONOS.md)
+
 ## 📦 Structure
 
 - `/src/app` - Pages principales
